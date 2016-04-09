@@ -1,0 +1,15 @@
+E:\baidu\vslab\MyKit\MyKit\bin\Debug\MyKit.exe.config
+E:\baidu\vslab\MyKit\MyKit\bin\Debug\MyKit.exe.manifest
+E:\baidu\vslab\MyKit\MyKit\bin\Debug\MyKit.application
+E:\baidu\vslab\MyKit\MyKit\bin\Debug\MyKit.exe
+E:\baidu\vslab\MyKit\MyKit\bin\Debug\MyKit.pdb
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.AboutBox1.resources
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.Form1.resources
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.Properties.Resources.resources
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.csproj.GenerateResource.Cache
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.exe.licenses
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.exe.manifest
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.application
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.exe
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.pdb
+E:\baidu\vslab\MyKit\MyKit\obj\Debug\MyKit.csprojResolveAssemblyReference.cache
